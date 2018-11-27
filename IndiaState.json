@@ -1,0 +1,215 @@
+﻿[
+	{
+		"States": "Andaman And Nicobar",
+		"Latitude": "11.66702557",
+		"Longitude": "92.735982620000001",
+		"StateColor": "1"
+	},
+	{
+		"States": "Andhra Pradesh",
+		"Latitude": "14.7504291",
+		"Longitude": "78.57002559",
+		"StateColor": "2"
+	},
+	{
+		"States": "Arunachal Pradesh",
+		"Latitude": "27.100398779999999",
+		"Longitude": "93.61660071",
+		"StateColor": "3"
+	},
+	{
+		"States": "Assam",
+		"Latitude": "26.749980900000001",
+		"Longitude": "94.216667439999995",
+		"StateColor": "4"
+	},
+	{
+		"States": "Bihar",
+		"Latitude": "25.785414450000001",
+		"Longitude": "87.479972700000005",
+		"StateColor": "5"
+	},
+	{
+		"States": "Chandigarh",
+		"Latitude": "30.71999697",
+		"Longitude": "76.780005650000007",
+		"StateColor": "6"
+	},
+	{
+		"States": "Chhattisgarh",
+		"Latitude": "22.090420349999999",
+		"Longitude": "82.159987340000001",
+		"StateColor": "7"
+	},
+	{
+		"States": "Dadra And Nagar Haveli",
+		"Latitude": "20.266578190000001",
+		"Longitude": "73.016617800000006",
+		"StateColor": "8"
+	},
+	{
+		"States": "Delhi",
+		"Latitude": "28.6699929",
+		"Longitude": "77.230004030000003",
+		"StateColor": "9"
+	},
+	{
+		"States": "Goa",
+		"Latitude": "15.491997",
+		"Longitude": "73.818000650000002",
+		"StateColor": "10"
+	},
+	{
+		"States": "Haryana",
+		"Latitude": "28.450006330000001",
+		"Longitude": "77.019991009999998",
+		"StateColor": "11"
+	},
+	{
+		"States": "Himachal Pradesh",
+		"Latitude": "31.10002545",
+		"Longitude": "77.166597039999999",
+		"StateColor": "12"
+	},
+	{
+		"States": "Jammu And Kashmir",
+		"Latitude": "34.29995933",
+		"Longitude": "74.46665849",
+		"StateColor": "13"
+	},
+	{
+		"States": "Jharkhand",
+		"Latitude": "23.800393490000001",
+		"Longitude": "86.41998572",
+		"StateColor": "14"
+	},
+	{
+		"States": "Karnataka",
+		"Latitude": "12.57038129",
+		"Longitude": "76.919997109999997",
+		"StateColor": "15"
+	},
+	{
+		"States": "Kerala",
+		"Latitude": "8.900372741",
+		"Longitude": "76.569992630000002",
+		"StateColor": "16"
+	},
+	{
+		"States": "Lakshadweep",
+		"Latitude": "10.562573309999999",
+		"Longitude": "72.636867170000002",
+		"StateColor": "17"
+	},
+	{
+		"States": "Madhya Pradesh",
+		"Latitude": "21.300391050000002",
+		"Longitude": "76.130019489999995",
+		"StateColor": "18"
+	},
+	{
+		"States": "Maharashtra",
+		"Latitude": "19.25023195",
+		"Longitude": "73.160174929999997",
+		"StateColor": "19"
+	},
+	{
+		"States": "Manipur",
+		"Latitude": "24.799970720000001",
+		"Longitude": "93.95001705",
+		"StateColor": "20"
+	},
+	{
+		"States": "Meghalaya",
+		"Latitude": "25.570492170000001",
+		"Longitude": "91.880014200000005",
+		"StateColor": "21"
+	},
+	{
+		"States": "Mizoram",
+		"Latitude": "23.710398990000002",
+		"Longitude": "92.720014610000007",
+		"StateColor": "22"
+	},
+	{
+		"States": "Nagaland",
+		"Latitude": "25.666997899999998",
+		"Longitude": "94.116570190000004",
+		"StateColor": "23"
+	},
+	{
+		"States": "Orissa",
+		"Latitude": "19.820429709999999",
+		"Longitude": "85.900017460000001",
+		"StateColor": "24"
+	},
+	{
+		"States": "Puducherry",
+		"Latitude": "11.934993710000001",
+		"Longitude": "79.830000369999993",
+		"StateColor": "25"
+	},
+	{
+		"States": "Punjab",
+		"Latitude": "31.51997398",
+		"Longitude": "75.980002810000002",
+		"StateColor": "26"
+	},
+	{
+		"States": "Rajasthan",
+		"Latitude": "26.449999210000001",
+		"Longitude": "74.639981239999997",
+		"StateColor": "27"
+	},
+	{
+		"States": "Sikkim",
+		"Latitude": "27.3333303",
+		"Longitude": "88.616647499999999",
+		"StateColor": "28"
+	},
+	{
+		"States": "Tamil Nadu",
+		"Latitude": "12.92038576",
+		"Longitude": "79.150041869999995",
+		"StateColor": "29"
+	},
+	{
+		"States": "Tripura",
+		"Latitude": "23.835404279999999",
+		"Longitude": "91.279999140000001",
+		"StateColor": "30"
+	},
+	{
+		"States": "Uttar Pradesh",
+		"Latitude": "27.599980689999999",
+		"Longitude": "78.050005650000003",
+		"StateColor": "31"
+	},
+	{
+		"States": "Uttaranchal",
+		"Latitude": "30.320408950000001",
+		"Longitude": "78.050005650000003",
+		"StateColor": "32"
+	},
+	{
+		"States": "West Bengal",
+		"Latitude": "22.580390439999999",
+		"Longitude": "88.329946649999997",
+		"StateColor": "33"
+	},
+	{
+		"States": "Telangana",
+		"Latitude": "18.112400000000001",
+		"Longitude": "79.019300000000001",
+		"StateColor": "34"
+	},
+	{
+		"States": "Gujarat",
+		"Latitude": "22.309425000000001",
+		"Longitude": "72.136229999999998",
+		"StateColor": "35"
+	},
+	{
+		"States": ""
+	}
+]
